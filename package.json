@@ -1,0 +1,16 @@
+{
+  "name": "apollo-nullable-errors",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node .",
+    "test": "jest ."
+  },
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.24.0",
+    "apollo-server-testing": "^2.24.0",
+    "graphql": "^15.5.0",
+    "jest": "^26.6.3"
+  }
+}
